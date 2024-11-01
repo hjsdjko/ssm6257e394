@@ -5,6 +5,7 @@
 
 
 
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
@@ -17,7 +18,7 @@
 
 点击此网址在线查看本项目视频：▶️▶️▶️ [http://www.jsxs1.cn](http://www.jsxs1.cn) ◀️◀️◀️
 
-**【🉑免费获取！！！】**
+**【完整源码联系人工客服获取！！！】**
 
 完整源码联系 **人工客服24小时** 全天在线 **【QQ 979748385 】** 回复 **项目编号+项目名称** 即可获取！！！
 
@@ -25,7 +26,7 @@
 
 **注意事项：**
 
-> **如何查看指定项目的演示视频？**
+> **PC电脑如何查看指定项目的演示视频？**
 
 💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
@@ -33,7 +34,15 @@
 
 ![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
+ 
 
+> **PC电脑如何查看指定项目的演示视频？**
+
+
+
+💥💥💥微信、QQ、浏览器等扫描设备扫码如下二维码即可
+
+![爱毕设官网](https://github.com/user-attachments/assets/82fecfb3-127c-46fc-a5f6-516a4498fb26)
 
 > **项目介绍**
 
